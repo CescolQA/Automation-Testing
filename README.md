@@ -8,4 +8,4 @@
       ✔ Prueba en el Explorador Chrome
         ✔ Manejo de Cypress para las pruebas Automatizadas
 
-<< En las archivos adjuntos está desglosado la práctica con varios .cy.js Files, Check it out! >>
+<< En los archivos adjuntos está desglosado la práctica con varios .cy.js Files, Check it out! >>
